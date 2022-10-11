@@ -1,13 +1,17 @@
-import notificationButton from "./components/notificationButton"
+import NotificationButton from "./components/NotificationButton"
 
 function App() {
   return(
     <>
-    <p>Ola caraio</p>
-      
-   <notificationButton/>
-  
-   </>
+    <h1>Olá mundo</h1>
+    <NotificationButton/>
+    <NotificationButton/>
+    <NotificationButton/>
+   
+    
+    
+
+    </>
   )
 }
 
