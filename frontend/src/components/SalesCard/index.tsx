@@ -1,4 +1,4 @@
-import NotificationButton from '../NotificationButton'
+import NotificationButton from '../notificationButton'
 import './styles.css'
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
